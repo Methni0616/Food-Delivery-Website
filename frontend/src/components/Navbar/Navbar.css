@@ -1,0 +1,10 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+  background-color: #fff;
+}
+
+.logo {
+  height: 50px; /* adjust size as needed */
+}
