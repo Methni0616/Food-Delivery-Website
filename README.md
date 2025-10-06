@@ -9,10 +9,8 @@
 - [About](#about)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
-- [Screenshots (Optional)](#screenshots-optional)
+- [Screenshots](#screenshots)
 - [Future Improvements](#future-improvements)
 - [Contributors](#contributors)
 - [License](#license)
@@ -95,6 +93,7 @@ Add backend integration (Node.js or Firebase)
 ## 📜 License
 
 This project is open-source and available under the MIT License.
+
 
 
 
